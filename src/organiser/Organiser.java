@@ -7,6 +7,7 @@ import java.text.SimpleDateFormat;
 /*
  * This Organiser class is the main class for the organiser package.
  * It has the functionality to create, modify, fetch and delete events.
+ * It also has the functionality to book workshops and conferences.
  */
 public class Organiser {
     
